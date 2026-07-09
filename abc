@@ -1,0 +1,7 @@
+echo "# Nhận diện biển báo giao thông cho xe tự hành" >> README.md 
+git init 
+git add README.md 
+git commit -m "lần commit đầu tiên" 
+git branch -M main 
+git remote add origin https://github.com/CuongAnh202/Autonomous-vehicles-traffic-sign-recognition.git
+ git push -u origin main
